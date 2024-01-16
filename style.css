@@ -1,0 +1,26 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+h1 {
+    color: #333;
+}
+
+button {
+    font-size: 16px;
+    margin: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #c94646;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+#resultado {
+    margin-block-start: 20px;
+    font-size: 18px;
+    color: #333;
+}
